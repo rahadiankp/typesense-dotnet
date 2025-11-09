@@ -7,9 +7,9 @@
     <AnalysisMode>All</AnalysisMode>
     <Nullable>enable</Nullable>
 
-    <PackageId>Typesense</PackageId>
-    <Description>.NET HTTP client for Typesense.</Description>
-    <PackageTags>typesense;search;search-engine;fuzzy-search;instant-search</PackageTags>
+    <PackageId>FrontierTypesense</PackageId>
+    <Description>.NET HTTP client for Typesense. Fork of https://github.com/DAXGRID/typesense-dotnet, for Frontier.cool</Description>
+    <PackageTags>typesense;search;search-engine;fuzzy-search;instant-search;frontier.cool</PackageTags>
     <PackageIcon>icon.png</PackageIcon>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/DAXGRID/typesense-dotnet</RepositoryUrl>
